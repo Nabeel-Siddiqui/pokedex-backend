@@ -1,24 +1,30 @@
-# README
+# True Pokédex
+![alt text](https://github.com/Nabeel-Siddiqui/pokedex/blob/master/public/logo.png)
+<br>
+Interactive Pokédex and game web app. [See it live!](https://true-pokedex.netlify.app/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Technologies
+Frontend
+* React
+* Redux
+* HTML & CSS
 
-Things you may want to cover:
+Backend
+* Ruby on Rails
+* PostgreSQL
 
-* Ruby version
+## Installation
+[See Frontend Here](https://github.com/Nabeel-Siddiqui/pokedex)
 
-* System dependencies
+Backend Installation
+* Fork or clone Backend ```git clone https://github.com/Nabeel-Siddiqui/pokedex-backend```
+* ```cd``` to ```pokedex-backend```
+* run ```bundle i && rails s``` 
 
-* Configuration
+Frontend Installation
+* Fork or clone this repo ```git clone https://github.com/Nabeel-Siddiqui/pokedex```
+* ```cd``` to ```pokedex```
+* run ```npm i && npm start``` 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact
+Created by [Nabeel Siddiqui](https://www.https://nabeelsiddiqui.netlify.app/) - feel free to contact me!
